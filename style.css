@@ -1,0 +1,42 @@
+head{
+    background-color:#e91b1b;
+}
+body{
+    background-color: rgba(234, 247, 51, 0.863);
+}
+
+.container{
+    text-align: center;
+    margin-top: 22px;
+   
+}
+table{
+    margin:auto
+}
+input {
+    border-radius: 12px;
+    border: 2px solid #e91b1b;
+    font-size: 34px;
+    height: 41px;
+    width: 283px;
+}
+button {
+    border-radius: 10px;
+    font-size: 29px;
+    background: #f7000085;
+    width: 59px;
+    height: 43px;
+    margin: 6px;
+}
+.calculator{ 
+    border: 1.5px solid #000000;
+    background-color: #fae1dd;
+    padding: 23px;
+    border-radius: 40px;
+    display: inline-block;
+}
+    
+h1{
+    font-size:30px ;
+    font-family: 'Courier New', Courier, monospace;
+}
