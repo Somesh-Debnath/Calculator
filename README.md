@@ -1,3 +1,3 @@
 # Calculator
-Basic calculator using HTML CSS JS
-#Feel free to contribute to this project 
+Basic calculator using HTML CSS JS <br>
+# Feel free to contribute to this project 
